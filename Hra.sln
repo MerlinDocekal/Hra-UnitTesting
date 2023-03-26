@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hra", "Hra\Hra.csproj", "{EF63ED92-E25A-415C-A686-03FE6CA50EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerniMechanikyTesty", "HerniMechanikyTesty\HerniMechanikyTesty.csproj", "{20E893F2-B500-4475-BF26-87E3F364441B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF63ED92-E25A-415C-A686-03FE6CA50EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF63ED92-E25A-415C-A686-03FE6CA50EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF63ED92-E25A-415C-A686-03FE6CA50EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF63ED92-E25A-415C-A686-03FE6CA50EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E893F2-B500-4475-BF26-87E3F364441B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E893F2-B500-4475-BF26-87E3F364441B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E893F2-B500-4475-BF26-87E3F364441B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E893F2-B500-4475-BF26-87E3F364441B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4084A41F-F547-46A6-AEA8-68323AB8ADB1}
+	EndGlobalSection
+EndGlobal
