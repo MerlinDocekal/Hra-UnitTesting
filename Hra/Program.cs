@@ -8,7 +8,10 @@ namespace Hra
 {
     public class Hra
     {
-
+        public Hra() 
+        {
+        
+        }
 
 
 
